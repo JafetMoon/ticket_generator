@@ -1,0 +1,4 @@
+This is a placeholder for a .png file consisting of an image of the ticket design.
+
+Name format:
+plain_ticket.png

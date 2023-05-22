@@ -1,0 +1,8 @@
+This is a placeholder for a .png file consisting of an image of text with the ticket code:
+MW-@@@@-###
+
+Where:
+@@@@ is the event ID code
+### is the ticket number
+
+This image is intended to be below de QR code on the ticket.

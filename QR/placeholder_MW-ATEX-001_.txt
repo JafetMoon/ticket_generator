@@ -1,0 +1,6 @@
+This is a placeholder for a .png file consisting of a QR code with the following name format:
+_MW-@@@@-###_
+
+Where:
+@@@@ is the event ID code
+### is the ticket number
